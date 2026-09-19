@@ -1,0 +1,23 @@
+PROPRIETARY SOURCE CODE LICENSE (ALL RIGHTS RESERVED)
+
+Copyright (c) 2026 Kevin Barbagallo. All rights reserved.
+
+1. PROPRIETARY RIGHTS
+This software, including its source code, architecture, design concepts, documentation, and database schemas (collectively, the "Software"), is the exclusive proprietary property of Kevin Barbagallo (the "Author").
+
+2. PERMITTED USE
+You are granted a limited, personal, non-exclusive, non-transferable, and revocable permission to view and inspect the Software solely for the purposes of code review, technical evaluation, educational analysis, or candidate employment assessment.
+
+3. STRICT PROHIBITIONS
+Except as explicitly permitted in Section 2, you may NOT under any circumstances:
+  a. Copy, duplicate, reproduce, or modify the Software or any portion thereof;
+  b. Distribute, sublicense, rent, lease, sell, or commercially exploit the Software;
+  c. Deploy, host, or execute the Software in any public, private, or commercial production environment;
+  d. Create derivative works based on the concepts, logic, UI/UX structure, or architecture of this Software;
+  e. Reverse engineer, decompile, or disassemble any part of the project.
+
+4. TRADEMARKS AND BRANDING
+No trademark, logo, trade name (including "InPanchina"), or brand identity associated with the Author is granted under this license.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE.
